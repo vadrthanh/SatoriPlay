@@ -1,2 +1,0 @@
-# SatoriPlay
-satoriplay White paper
